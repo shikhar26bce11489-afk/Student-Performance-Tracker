@@ -74,9 +74,10 @@ Student-Performance-Analyzer/
 
 1. Clone the repository
 
+https://github.com/shikhar26bce11489-afk/Student-Performance-Tracker
 
 
-2. Open the project folder
+3. Open the project folder
 
 cd student-performance-analyzer
 
