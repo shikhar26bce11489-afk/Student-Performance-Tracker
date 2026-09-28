@@ -1,6 +1,6 @@
 Student Performance Analyzer
 
-1. Problem Statement
+1. Problem Statement 
 
 Students often have marks for multiple subjects, but calculating and analyzing their overall academic performance manually can be time-consuming and prone to errors.
 
