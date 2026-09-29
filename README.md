@@ -128,7 +128,9 @@ The project includes a testing module to verify important calculations and appli
 
 Run the tests using:
 
-python -m unittest discover
+python -m pytest
+
+The performance calculation test currently passes automatically
 
 Testing includes:
 
